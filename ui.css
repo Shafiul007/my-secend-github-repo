@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    padding: 2%;
+    background-image: url("travel.jpeg");
+    background-repeat: no-repeat;
+
+
+}
+ul{
+    display: flex;
+}
+ul li{
+    margin:2vw;
+    list-style-type: none;
+    height: 25px;
+    text-align: center;
+    justify-content: center;
+    line-height: 25px;
+    width: 100px;
+    background-color: yellowgreen;
+    color: black;
+
+}
+ul li a{
+    text-decoration: none;
+
+}
